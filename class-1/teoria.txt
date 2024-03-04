@@ -1,0 +1,26 @@
+
+===== NodeJs. y JavaScript =====
+
+--- Que Es JavaScript ---
+
+JavaScript es un lenguaje de programacion de tipado dinamico 
+(osea que no hay que especificar que tipo de dato se almacena en la variable).
+El mismo se creo originalmente para los Navegadores, con el objetivo de darle algunas funcionalidades extras a las paginas web.
+Hoy gracias a Nodejs, puede usarse para crear API REST, Aplicaciones de Escritorio, Moviles y Web.
+
+--- Lenguajes Compilados y Lenguajes Interpretados ---
+
+En un lenguaje compilado, como C++ o Java el código se traduce completamente a lenguaje de maquina antes de ejecutarse, 
+generando un archivo ejecutable independiente. 
+En un lenguaje interpretado, como JavaScript, el código se ejecuta línea por línea por un intérprete en tiempo real.
+( En este caso el interprete vendria a ser El navegador o Nodejs. ) sin necesidad de compilar previamente.
+
+--- Que Es Nodejs ---
+
+Es un entorno el cual nos permite ejecutar JavaScript sin la necesidad de un navegador,
+hasta antes de NodeJs, la unica manera de ejecutar JavaScript era en un navegador web, agregando
+una etiqueta <script> al HTML.
+
+
+
+
